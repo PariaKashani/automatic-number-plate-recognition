@@ -1,5 +1,5 @@
-# automatic-number-plate-recognition
-Using YOLOv7 to recognize Iraning number plates in images
+# Automatic Persian Number Plate Recognition
+Using YOLOv7 to recognize Iranian number plates in images
 
 1. training a YOLOv7 on images containing number plates to detect plate region
 2. v1 -> using easyocr to read number plates <br>
